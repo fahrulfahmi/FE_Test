@@ -1,0 +1,39 @@
+
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "search": "Cari",
+    "settings": "Pengaturan",
+    "language": "Bahasa",
+    "appearance": "Tampilan",
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem",
+    "brandDescription": "Manajemen Pengumpulan Tol",
+    "notifications": "Notifikasi"
+  },
+  "navigation": {
+    "mainMenu": "Menu Utama",
+    "dashboard": "Dashboard",
+    "transactions": "Monitoring Transaksi",
+    "tollGates": "Manajemen Gerbang Tol",
+    "reports": "Laporan & Analitik",
+    "settings": "Pengaturan",
+    "brandDescription": "Manajemen Pengumpulan Tol"
+  },
+  "dashboard": {
+    "title": "Dashboard TCM",
+    "subtitle": "Monitoring Operasional Pengumpulan Tol",
+    "totalTransactions": "Total Transaksi",
+    "totalRevenue": "Total Pendapatan",
+    "activeGates": "Gardu Aktif",
+    "operationalGates": "Gerbang Operasional",
+    "recentTransactions": "Transaksi Terbaru",
+    "transactionAnalytics": "Analisis Transaksi",
+    "revenueAnalytics": "Analisis Pendapatan"
+  },
+  "auth": {
+    "administrator": "Administrator",
+    "systemAdmin": "Admin Sistem"
+  }
+}

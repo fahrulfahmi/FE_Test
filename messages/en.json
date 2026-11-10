@@ -1,0 +1,39 @@
+
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "search": "Search",
+    "settings": "Settings",
+    "language": "Language",
+    "appearance": "Appearance",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "brandDescription": "Toll Collection Management",
+    "notifications": "Notifications"
+  },
+  "navigation": {
+    "mainMenu": "Main Menu",
+    "dashboard": "Dashboard",
+    "transactions": "Transaction Monitoring",
+    "tollGates": "Toll Gate Management",
+    "reports": "Reports & Analytics",
+    "settings": "Settings",
+    "brandDescription": "Toll Collection Management"
+  },
+  "dashboard": {
+    "title": "TCM Dashboard",
+    "subtitle": "Toll Collection Operations Monitoring",
+    "totalTransactions": "Total Transactions",
+    "totalRevenue": "Total Revenue",
+    "activeGates": "Active Toll Booths",
+    "operationalGates": "Operational Toll Gates",
+    "recentTransactions": "Recent Transactions",
+    "transactionAnalytics": "Transaction Analytics",
+    "revenueAnalytics": "Revenue Analytics"
+  },
+  "auth": {
+    "administrator": "Administrator",
+    "systemAdmin": "System Admin"
+  }
+}
